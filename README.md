@@ -77,7 +77,7 @@ This ensures the Photos app recognizes and recombines the photo and video into a
    ```
 2. **Run the Script**: Run the script using Python:
    ```bash
-   python3 fix_live_photos.py
+   python3 fixLivePhotos.py
    ```
 
 ## Example Output
